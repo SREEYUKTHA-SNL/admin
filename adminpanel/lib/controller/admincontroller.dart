@@ -26,7 +26,7 @@ void adduser(
       ),
     );
   }
-}
+    }
 
 void editdetails(
     {required Map<String, dynamic> edituser,
